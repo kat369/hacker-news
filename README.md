@@ -1,2 +1,3 @@
 # hacker-news
-simple hacker news application built using react and redux
+
+Simple hacker news application built using ReactJS and Redux.
